@@ -1,7 +1,7 @@
 ---
 title: 'The Secret of True Power: Why Showing Off Doesn’t Work'
 description: 'Ancient wisdom from Lao Tzu and Buddha that feels more relevant than ever in the digital age'
-pubDate: ''
+pubDate: "2026-04-16"
 heroImage: ''
 ---
 
